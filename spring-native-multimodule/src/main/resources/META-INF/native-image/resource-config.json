@@ -1,0 +1,10 @@
+{
+  "resources":{
+  "includes":[
+    {"pattern":"\\Qapplication.properties\\E"}, 
+    {"pattern":"\\Qcom/github/arielcarrera/spring_native/multimodule/\\E"},
+    {"pattern":"\\Qlog4j2-spring.xml\\E"}
+  ]},
+  "bundles":[
+  ]
+}
